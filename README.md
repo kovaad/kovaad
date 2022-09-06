@@ -1,5 +1,5 @@
 ## About
-Hi there 👋, I am a graduate student in Business Analytics [@CEU](https://www.ceu.edu), currently finishing that degree with an exchange semester at [@EBS](https://www.ebs.edu/de) Universität für Wirtschaft und Recht. Having worked as a Research Assistant at the Hungarian Academy of Sciences for the past 2 years, my work concentrated on uncovering social science issues such as social mobility, segregation and income-related differences in human mobility using large-scale spatial and network data.
+Hi there 👋, I am a graduate student in Business Analytics [@CEU](https://www.ceu.edu), currently finishing that degree with an exchange semester [@EBS](https://www.ebs.edu/de) Universität für Wirtschaft und Recht. I worked as a Research Assistant at the Hungarian Academy of Sciences for the past 2 years, where my work concentrated on uncovering social science issues such as social mobility, segregation and income-related differences in human mobility using large-scale spatial and network data.
 -------------------
 
 ## Contact
