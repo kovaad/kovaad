@@ -22,4 +22,4 @@ Hi there 👋, I am a graduate student in Business Analytics [@CEU](https://www.
 -----
 Credits: [kovaad](https://github.com/kovaad)
 
-Last Edited on: 30/08/2022
+Last Edited on: 06/09/2022
